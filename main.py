@@ -31,14 +31,16 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://alisaign.github.io",  # your GitHub Pages URL
-        "http://127.0.0.1:8000",      # optional, for local testing
-        "http://localhost:8000"       # optional, for local testing
+        "https://alisaign.github.io",
+        "https://alisaign.github.io/",
+        "http://127.0.0.1:8000",
+        "http://localhost:8000",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # --- Exception handlers (for debugging) ---
 @app.exception_handler(Exception)
