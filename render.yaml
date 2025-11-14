@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: walkability-backend
-    runtime: python
-    pythonVersion: 3.11
