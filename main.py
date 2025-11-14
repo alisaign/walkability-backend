@@ -78,8 +78,8 @@ async def validation_exception_handler(request, exc):
 # app.mount("/", StaticFiles(directory=frontend_dir, html=True), name="frontend")
 # templates = Jinja2Templates(directory=frontend_dir)
 
-app.mount("/static", StaticFiles(directory="frontend"), name="static")
-templates = Jinja2Templates(directory="frontend")
+# app.mount("/static", StaticFiles(directory="frontend"), name="static")
+# templates = Jinja2Templates(directory="frontend")
 # app.mount("/js", StaticFiles(directory=frontend_dir / "js"), name="js")
 # app.mount("/css", StaticFiles(directory=frontend_dir / "css"), name="css")
 
@@ -100,14 +100,14 @@ class WalkabilityInput(BaseModel):
 
 # --- Routes ---
 
-# 1. Show your index page
-@app.get("/", response_class=HTMLResponse)
-def read_index(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+# # 1. Show your index page
+# @app.get("/", response_class=HTMLResponse)
+# def read_index(request: Request):
+#     return templates.TemplateResponse("index.html", {"request": request})
 
-@app.get("/result", response_class=HTMLResponse)
-def read_result(request: Request):
-    return templates.TemplateResponse("result.html", {"request": request})
+# @app.get("/result", response_class=HTMLResponse)
+# def read_result(request: Request):
+#     return templates.TemplateResponse("result.html", {"request": request})
 
 # 2. Endpoint that runs your scoring logic
 @app.post("/api/analyze")
@@ -154,7 +154,7 @@ def analyze_walkability_api(data: WalkabilityInput):
         "gradient_layer": gradient_layer.__geo_interface__,  # optional: if you return gradient map too
     }
     #print("formatted output: ", formatted_output)
-    output_path = Path("sample_data.json")
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(formatted_output, f, indent=2)
+    # output_path = Path("sample_data.json")
+    # with open(output_path, "w", encoding="utf-8") as f:
+    #     json.dump(formatted_output, f, indent=2)
     return formatted_output
