@@ -1,0 +1,7271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hôtel-de-Ville 2 (du Champs-de-Mars / Gosford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55434656143188,
+          45.5093281424543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Catherine / Dézéry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54103073477745,
+          45.53929155936048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / Evans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56790713965893,
+          45.51113228073946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hôtel-de-Ville (du Champs-de-Mars / Gosford)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55457991361618,
+          45.50918810659251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "18e avenue / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5765291005373,
+          45.55789545752947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Hôtel-de-Ville / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5621839761734,
+          45.51164009357107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Sanguinet / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5611406,
+          45.512734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Catherine / Labelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55922147631645,
+          45.51505175851694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Catherine / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56044590473175,
+          45.513833539883954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / St-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55264469981194,
+          45.51411452790017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro St-Laurent (de Maisonneuve / St-Laurent)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56497,
+          45.51066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Sanguinet / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56287062168121,
+          45.513542213034626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Denis / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56176555156708,
+          45.51439551451341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561273,
+          45.515299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jacques-Le Ber / de la Pointe Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.539285,
+          45.472503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Square Ahmerst / Wolfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5637571,
+          45.52106924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56353,
+          45.51889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56716752052306,
+          45.51792135435956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Sanguinet / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.565338,
+          45.514784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Beaudry / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56234759092331,
+          45.521629790621084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Commune / Berri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54983,
+          45.51086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Messier / Hochelaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56061805854551,
+          45.532227058311776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Commune / Place Jacques-Cartier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55183601379395,
+          45.50761009451047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Maisonneuve / Mansfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57325211,
+          45.5022921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bel Air / St-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58452544,
+          45.482779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Antoine / St-François-Xavier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55916380882263,
+          45.50454228987185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Place-d'Armes (Viger / St-Urbain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55976,
+          45.50623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Urbain / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563112,
+          45.5079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Commune / St-Sulpice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.553469479084,
+          45.50424245563397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "McGill / Place d'Youville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55566,
+          45.49975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Jacques / St-Pierre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55913430452347,
+          45.50278649802565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Jacques / Gauvin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561082,
+          45.500674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Gauchetière / Robert-Bourassa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56544822454453,
+          45.50060578095098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Square Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56295,
+          45.50206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Roy / St-Christophe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57047200202942,
+          45.521492075725334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Bonaventure (de la Gauchetière / Mansfield)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56671,
+          45.49871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Milton / Durocher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57477158,
+          45.5081439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Queen / Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55614096,
+          45.4979738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Queen / Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55523705482483,
+          45.49759505413604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Commune / McGill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55256289,
+          45.4986731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / Marmier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.601728,
+          45.529686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Commune / King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55266482,
+          45.4980302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cypress / Peel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57176750898361,
+          45.49932551028458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Metcalfe / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57215642929077,
+          45.50068473942228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mansfield / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56928,
+          45.50015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Catherine / McGill College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57128,
+          45.50176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Drummond / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57422709465027,
+          45.49863930330429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Drummond / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57591,
+          45.49947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Peel (de Maisonneuve / Stanley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57507,
+          45.50038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Montagne / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57884854,
+          45.4996771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Maisonneuve / Robert-Bourassa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572103,
+          45.503475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mansfield / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57505,
+          45.50297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Maisonneuve / Aylmer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57069,
+          45.50501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ville-Marie / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52914720773697,
+          45.55792114867545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Place-des-Arts (de Maisonneuve / de Bleury)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56917,
+          45.50708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Alexandre / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5676195,
+          45.50537693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "6e avenue / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58298182487488,
+          45.55052513498631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Square Phillips"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56869637966156,
+          45.50409488772675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lambert-Closse / Tupper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582445,
+          45.489609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Notre-Dame / Peel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56328,
+          45.4952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Lucien-L'Allier (Lucien l'Allier / Argyle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57108,
+          45.49486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Joseph-Manceau / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57676714658737,
+          45.491686521008035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Crescent / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57348,
+          45.49606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Chateaubriand / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60388159751892,
+          45.53550590629069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Tupper / Atwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58353704214096,
+          45.48887733846146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chomedey / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58400642871855,
+          45.491800276787224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lucien L'Allier / St-Jacques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56857568025589,
+          45.49356916133978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bishop / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57616,
+          45.49642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Crescent / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57760936021805,
+          45.49815109497532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mackay / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57851,
+          45.49659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Villa-Maria (Décarie / de Monkland)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61979,
+          45.479483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lincoln / du Fort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.583836,
+          45.493034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lespérance / de Rouen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.552496,
+          45.538799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Wolfe / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5541883111,
+          45.51681750463149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Plessis / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55195805430411,
+          45.51937252291976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Papineau / René-Lévesque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54926,
+          45.52114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Mathieu /Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.579186,
+          45.493718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Logan / Fullum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55108499526978,
+          45.528448693514136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Quai de la navette fluviale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53838205337523,
+          45.513741443172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Poupart / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54634821414948,
+          45.52903307037075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parthenais / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54926645755768,
+          45.52620038317685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Montcalm / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55786,
+          45.519157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Alexandre-DeSève / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55534,
+          45.5219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Papineau (Cartier / Ste-Catherine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55199,
+          45.52353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Benny / de Monkland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6317041516304,
+          45.466914254987394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Plessis / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.560941,
+          45.523584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Robin / de la Visitation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55922147631645,
+          45.520889767299096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Champlain / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56003552675247,
+          45.52504753729988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Dorion / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.558021,
+          45.52697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ontario / du Havre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5521968,
+          45.5336609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gascon / de Rouen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55486422777176,
+          45.53513390280753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Alexandre-de-Sève / la Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55821833014488,
+          45.52327641182773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Poupart / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55343863368034,
+          45.53193889278052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ellendale / Côte-des-Neiges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.629298,
+          45.499757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rouen / Fullum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55859,
+          45.53217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Henri-Julien / de Castelnau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618323,
+          45.537877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hogan / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55116009712219,
+          45.535295480380306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Sherbrooke / Frontenac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56081,
+          45.5367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fullum / Sherbrooke "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562425,
+          45.533924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Terrasse Mercure / Fullum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56592297554016,
+          45.535690028316374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56305301189423,
+          45.52997069129102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Famille / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57075229287146,
+          45.51007154847701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison/ Prince-Arthur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.576105,
+          45.509864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Angus (Molson / William-Tremblay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56549382209778,
+          45.54172920185872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Atwater / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58763009309769,
+          45.4912258547597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Drolet / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605834,
+          45.533348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Alma / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60665500164032,
+          45.53243586450861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc du Pélican (2e avenue / St-Joseph)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571564,
+          45.544513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "9e avenue / Dandurand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57711,
+          45.550769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60766887664795,
+          45.54740777921938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis-Hébert / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60271081328392,
+          45.553139429376344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Metcalfe / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57413053512573,
+          45.50171494932855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "University / des Pins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.580498,
+          45.508356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gascon / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562643,
+          45.537964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Larivière / de Lorimier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55923354625702,
+          45.5291345371163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Laurier (Rivard / Laurier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5891147,
+          45.52761627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gauthier / Papineau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56740087270737,
+          45.52969260094507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gauthier / De Lorimier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.565317,
+          45.531818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "des Érables / Gauthier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5647763,
+          45.53240768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5702896118164,
+          45.5298015824607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56828,
+          45.53227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Calixa-Lavallée / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57193917036057,
+          45.527794785525096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rachel / de Brébeuf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57264,
+          45.52689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Parc-La Fontaine / Duluth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57207864522934,
+          45.524565651056875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Parc-La Fontaine / Roy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56836378574371,
+          45.52290738118557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Calixa-Lavallée / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56545,
+          45.52479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Émile-Duployé / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56463,
+          45.52729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chapleau / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56936,
+          45.53867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Messier / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5710031,
+          45.53711414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parthenais / Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57141681015491,
+          45.536368888563324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chabot / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57358872890472,
+          45.53418509490266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cartier / Marie-Anne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571776,
+          45.532674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57544,
+          45.53229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Garnier / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57674,
+          45.53092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marie-Anne / de la Roche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57618510723114,
+          45.52775814390426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Roche / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57867956161499,
+          45.52875779392618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gilford / de Brébeuf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58162596821785,
+          45.53081622781595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ann / William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5600972175598,
+          45.495894391754916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Garnier / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58122229576111,
+          45.5329774553515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cartier / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57867,
+          45.53576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fullum / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57555881,
+          45.5398326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5822,
+          45.53543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chambord / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58415059745312,
+          45.532929543795944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Brébeuf / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58507,
+          45.53248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Brébeuf / St-Grégoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58852,
+          45.5341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / St-Grégoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58584,
+          45.53703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marmier / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59834551811218,
+          45.530871318676006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Boyer / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57991673052311,
+          45.527432126380575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Mentana / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58677,
+          45.530046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Wolfe / Robin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5601159930229,
+          45.51958082831579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / Cherrier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56950908899307,
+          45.51908844137639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Roy / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5727,
+          45.51908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Cherrier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5677509009838,
+          45.52054115838411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Duluth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573431,
+          45.523171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Hubert / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57645601034164,
+          45.5234013790077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rivard / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5775906,
+          45.5222776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Duluth / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57598394155502,
+          45.52060423232697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58212888,
+          45.5173538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bullion / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58498007059097,
+          45.521484558655224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Henri-Julien / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58361225138651,
+          45.522847236474675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Mont-Royal (Rivard / du Mont-Royal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58255,
+          45.524673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "des Érables / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60087350010872,
+          45.54912085535069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5876018932322,
+          45.52955900967215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mentana / Marie-Anne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57785880565643,
+          45.526026565221414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chabot / Everett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60957056283951,
+          45.55072306022627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Pontiac / Gilford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58576595783234,
+          45.527009334270645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Zotique / Clark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612674,
+          45.531401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / St-Grégoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.591766,
+          45.529802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Esplanade / Fairmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596758,
+          45.521495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / Fairmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.593016,
+          45.525669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bullion / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59014332294464,
+          45.5240365462478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Villeneuve / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58941912651062,
+          45.52134173413233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5824453830719,
+          45.53898439552301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hélène-Baillargeon / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59527,
+          45.52974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / St-Viateur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59930574893951,
+          45.52516404439482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / Maguire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59544605016708,
+          45.52517749913384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Villeneuve / de l'Hôtel-de-Ville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58733236789703,
+          45.52354419830203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57208,
+          45.50781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Milton / du Parc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57354,
+          45.50971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Prince-Arthur / du Parc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57547,
+          45.51059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Famille / des Pins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57701659202576,
+          45.51281294953485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison / des Pins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57805,
+          45.51069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Milton / Clark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57067719101906,
+          45.51254135285248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Sauvé (Sauvé / Berri)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65636706352234,
+          45.550692068419764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Roy / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57580825686453,
+          45.515616239398405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Duluth / de l'Esplanade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5810948908329,
+          45.515174563705855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Duluth / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57946008443832,
+          45.51687640567004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Square St-Louis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56906,
+          45.51735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Cuthbert / St-Urbain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57827588915825,
+          45.51488700277475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc Jeanne Mance (monument à sir George-Étienne Cartier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58503,
+          45.51496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Vallières / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58363156316045,
+          45.518977033594894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Hôtel-de-Ville / Roy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57443630695343,
+          45.51733310325783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Laval / Duluth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57718020677567,
+          45.519216236873945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Mont-Royal / Clark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58685,
+          45.51941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jeanne Mance / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5889283,
+          45.5176432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Mont-Royal / du Parc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.589,
+          45.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Villeneuve / du Parc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59235,
+          45.51829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Villeneuve / St-Urbain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.590559,
+          45.520188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561562,
+          45.575707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Esplanade / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59478354454039,
+          45.521116220989526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Coloniale / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5856157541275,
+          45.5211613236904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Waverly / Fairmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59620042145252,
+          45.52210956205183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jeanne-Mance / St-Viateur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60129594802856,
+          45.52282093699329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bernard / Clark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60261,
+          45.52697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / St-Viateur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59823286533356,
+          45.52654331973003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Laurier / de Bordeaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57917040586472,
+          45.53725879867612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Lanaudière / Gilford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58067512512207,
+          45.53198492626314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Napoléon /  St-Dominique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57770323753357,
+          45.51674014744136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60556602478027,
+          45.54975479298636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hudson / de Kent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.629593,
+          45.505973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison / Fairmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59852924942969,
+          45.519505185182496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bloomfield / Bernard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6084279,
+          45.52068774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bloomfield / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61265779,
+          45.5225858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Outremont (Wiseman / Van Horne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61484915018082,
+          45.52027053865367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61099146306515,
+          45.53228145673193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581566,
+          45.518593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bélanger / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61199,
+          45.53696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marché Jean-Talon (Henri-Julien / Jean-Talon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148879583925,
+          45.53678525128436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / Dante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61223131418228,
+          45.534357948228354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mozart / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61544,
+          45.53318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614318180189,
+          45.53903177583418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Boyer / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60897,
+          45.54006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Boyer / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60556,
+          45.53848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de St-Vallier / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60754549503326,
+          45.536261178519666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc Père-Marquette (Chambord / Rosemont)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59316617250443,
+          45.53702583434782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Dandurand / de Lorimier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584157,
+          45.540881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Dandurand / Papineau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58622193336485,
+          45.538699774322616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis Hémon / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58822286128998,
+          45.54459855947176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Roche /  de Bellechasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59747648239136,
+          45.537159225331315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Hampton / de Monkland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62720608711243,
+          45.471161595177456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chabot / de Bellechasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59214425086974,
+          45.5425697477813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parthenais / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5761334747076,
+          45.53854352327858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis-Hébert / Belllechasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5888934135437,
+          45.5468001130256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5949,
+          45.54475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chambord / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59934329986572,
+          45.539932183126695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bercy / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5507497191429,
+          45.53455710466228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fabre / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60101029276848,
+          45.54345172630376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Casgrain / de Bellechasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.604214,
+          45.529993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chabot / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59927892684937,
+          45.5460938219615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cartier / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602616,
+          45.546939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Roche / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.583695,
+          45.531164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chambord / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61053615808486,
+          45.54484558108033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chambord / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60637202858925,
+          45.54299336219576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis-Hébert / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59576,
+          45.55001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis-Hébert / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59916493296623,
+          45.55158518908433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fabre / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.597793,
+          45.542055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc Rosemont (Dandurand / d'Iberville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581018,
+          45.544377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Rosemont (Rosemont / de St-Vallier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59788820147514,
+          45.53132719875296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Boyer / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.595478,
+          45.534136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bellechasse / de St-Vallier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60113568603992,
+          45.53334868400571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Augustin-Cantin / Shearer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5634366,
+          45.48401829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marie-Anne / St-Hubert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.578755,
+          45.524634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Édouard-Montpetit / Stirling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615085,
+          45.50723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jean-Brillant / McKenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618105,
+          45.500035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Waverly / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607723,
+          45.527363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61073732376099,
+          45.525021229212776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bernard / Jeanne-Mance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60497325658798,
+          45.5242864769531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Basile-Routhier / Chabanel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6479663848877,
+          45.549985826258116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "10e Avenue / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581185,
+          45.552649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Murray / William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56196403503418,
+          45.4935955571179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Notre-Dame / de la Montagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56481790542603,
+          45.49302901258371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Guy / Notre-Dame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567091,
+          45.489951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Elsdale / Louis-Hébert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59385818243027,
+          45.54918032376485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fairmount / St-Dominique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59414249658585,
+          45.524504989237535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Charlevoix (Centre / Charlevoix)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56965124607086,
+          45.47822787309145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "des Seigneurs / Workman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56963247060776,
+          45.48799111065998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Square Sir-Georges-Etienne-Cartier / Ste-Émilie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585389778018,
+          45.47266800851548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Georges-Vanier / Notre-Dame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5719633102417,
+          45.485047979822774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Quesnel / Vinet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577514,
+          45.485889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Duvernay / Charlevoix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57486278,
+          45.48203995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marché Atwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57759863138199,
+          45.48020822800015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Charlevoix / Lionel-Groulx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57731164,
+          45.48392802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Georges-Vanier (St-Antoine / Canning)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57656,
+          45.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Laval / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57942387461662,
+          45.52017845247635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "5e avenue / de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571877,
+          45.456049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Darlington / de la Côte-Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62116575241089,
+          45.505403247020155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Kent / de la Côte-des-Neiges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.633161,
+          45.501302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Drolet / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60941231250763,
+          45.53488214147823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Lanaudière / Marie-Anne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574777,
+          45.529219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Côte-des-Neiges (Lacombe / de la Côte-des-Neiges)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62331956624985,
+          45.4968505432976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gatineau / Swail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62015455961227,
+          45.496457147256585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bourbonnière / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56049418449402,
+          45.55357073967113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux /Gilford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5762870311737,
+          45.53611005443118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Préfontaine (Moreau / Hochelaga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55431437492369,
+          45.5414350841351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Joliette  (Joliette / Hochelaga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5515570640564,
+          45.54690718297082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "d'Orléans / Hochelaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.549502,
+          45.550668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Boyer / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612441,
+          45.541484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Aylwin / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54554891586304,
+          45.54431114893366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Dézéry / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54754984378815,
+          45.54111008519643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Valois / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54377329349518,
+          45.54716076886967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Pierre-de-Coubertin / Aird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54848057031631,
+          45.559017919299556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marché Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5398143529892,
+          45.55319389744088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Guizot / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63444805145264,
+          45.53963159810423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Faillon / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62023502588272,
+          45.53982885720648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gounod / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62611174583435,
+          45.54181643887568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / Jarry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63040059804916,
+          45.540780049797995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Guizot / St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.632353246212,
+          45.543347467582954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / de Liège"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63634169101715,
+          45.54248521237199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Leman / de Chateaubriand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.631103,
+          45.547218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "d'Outremont / Ogilvy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62666830420494,
+          45.52684538403074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Rosaire / St-Hubert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.621581,
+          45.54467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Faillon / St-Hubert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61793905496597,
+          45.54297175887712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ball / Querbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63214671611786,
+          45.53120329140607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Roche / Everett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614841,
+          45.544867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Regina / de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570769,
+          45.467369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marquette / Villeray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61529305577278,
+          45.55068361610596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Louis-Hémon / Villeray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61073732376097,
+          45.55496126357668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro St-Michel (Shaughnessy / St-Michel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.599658,
+          45.559199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ryde / Charlevoix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5646007,
+          45.4757434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Island / Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56475353240967,
+          45.48149081388884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / Gounod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62802147865295,
+          45.538737949470644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Liège / Lajeunesse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63474041223526,
+          45.545603545552744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Henri-Julien / Villeray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62355560064316,
+          45.539487469364325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Marcil / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613924,
+          45.471743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ontario / Sicard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53744059801102,
+          45.55626186680846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Monkland / Girouard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6212,
+          45.4771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "12e avenue / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58925,
+          45.556905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "1ère  avenue /St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59392791986465,
+          45.551937362101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc Plage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52750301361084,
+          45.502602268297935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "8e avenue / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58752,
+          45.553215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Molson / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59115451574326,
+          45.54968589617967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "1ère avenue / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58523,
+          45.547997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Clifton / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6185747385025,
+          45.46904609121779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Chambly / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55826258659361,
+          45.54991069359101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Wilderton  / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.624835,
+          45.510042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "3e avenue / Dandurand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.579221,
+          45.547362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "10e avenue / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57335805892944,
+          45.55031640880025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "West Broadway / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64013027457986,
+          45.45635829051657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "d'Orléans / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569847,
+          45.557192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "4e avenue / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575515,
+          45.546978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "1ère avenue / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57645065,
+          45.5451997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "7e avenue / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56986984610558,
+          45.547226645250745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Laurier / 15e avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569495677948,
+          45.553215158882175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Place St-Henri (St-Ferdinand / St-Jacques)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.587238,
+          45.477249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "16e avenue / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56575198471546,
+          45.55292309731551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Grand Trunk / Hibernia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56385,
+          45.47968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Église / Bannantyne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57587933540344,
+          45.4632535358533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561916,
+          45.551584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Omer-Lavallée / du Midway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56217458844185,
+          45.5457759528664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Darling / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55666935443878,
+          45.54545890380305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Pie-IX (Pierre-de-Coubertin / Pie-IX)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55155974626541,
+          45.55421375524564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Parc Outremont (Bloomfield / Elmwood)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60328614711761,
+          45.518309446368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Stuart / de la Côte-Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60671132802963,
+          45.515634094300324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Dunlop / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.619682,
+          45.514905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rockland / Lajoie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614991,
+          45.515617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Davaar / de la Côte-Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.610871,
+          45.514379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Mont-Royal / Vincent-d'Indy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.611429,
+          45.510086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gary Carter / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62242102622986,
+          45.536152810858084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.617459,
+          45.535189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lionel-Groulx / George-Vanier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5737469792366,
+          45.48621939184824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Hôtel-de-Ville / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56840670108795,
+          45.514564669657595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Mansfield / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5718136,
+          45.5014018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Prince-Arthur / St-Urbain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57374027371407,
+          45.512600559161406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Jean-Drapeau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53355407714844,
+          45.51340900098092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Casino de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52457672,
+          45.5063732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Parc  (Ogilvy / Hutchison)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6243924498558,
+          45.53035130173597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "La Ronde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53533238172531,
+          45.52156536710626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Wilson / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6162,
+          45.4703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Vendôme / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6040586233139,
+          45.47441930263679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Président-Kennedy / McGill College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573986,
+          45.503063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cartier / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59104454517365,
+          45.54124722370603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Notre-Dame-de-Grâce / Décarie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61537218093872,
+          45.47735333523628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Beaucourt / de la Côte-Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.633649,
+          45.491513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hôpital général juif (de la Côte Ste-Catherine / Légaré)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.629822,
+          45.496302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Trans Island / Queen-Mary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.628834,
+          45.484489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fleury / Lajeunesse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6616,
+          45.5536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Crémazie (Crémazie / Lajeunesse)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63842844963074,
+          45.54640752148169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Complexe sportif Claude-Robillard (Émile-Journault)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.638615,
+          45.553262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cathcart / Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56840401887894,
+          45.503450096027684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Laporte / St-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58660951256752,
+          45.48050798452431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ross / de l'Église"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.565845,
+          45.462742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Verdun (Willibrord / de Verdun)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57209205627441,
+          45.459487694540734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Lasalle (de Rushbrooke / Caisse)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56542240828276,
+          45.47069642604657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Place du Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54259,
+          45.46714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / Prince-Arthur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57296109199524,
+          45.5133025720765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berlioz / de l'Île des Soeurs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54395568370819,
+          45.45998577640931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Resther / St-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58628362,
+          45.5277271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Maisonneuve / Greene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58929306,
+          45.48697062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hillside / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59084337949753,
+          45.48282602624293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Victoria / de Maisonneuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60016942024231,
+          45.47742856483265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Victoria Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6,
+          45.4816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Côte St-Antoine / Clarke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59523415565491,
+          45.48645209646392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Charles / Montarville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51528286933899,
+          45.533703286938504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Place Longueuil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51769149303436,
+          45.52951221728282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Charles / Charlotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.508752,
+          45.539824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Charles / St-Sylvestre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51264223456383,
+          45.53637796305584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Collège Édouard-Montpetit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49506705999374,
+          45.53722603812578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Longueuil - Université de Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.519677,
+          45.523854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / St-Grégoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59174862504005,
+          45.531411853692525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Paul Boutet / des Regrattiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61544728279114,
+          45.55984236120471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Salle / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53416427969933,
+          45.54992008517989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Marseille / Viau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5489124,
+          45.5639212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Chauveau / de l'Assomption"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.548081,
+          45.569789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jardin Botanique (Pie-IX / Sherbrooke)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55582308082374,
+          45.555205239939916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "19e avenue / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585643,
+          45.561594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "5e avenue / Bannantyne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57614,
+          45.456365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Beatty / de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5725748538971,
+          45.450729976972944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Jolicoeur (Drake / de Sève)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58214363455772,
+          45.456498000831544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Place Jean-Paul Riopelle (Viger / de Bleury)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56170386075974,
+          45.50372673707354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Le Caron / Marc-Sauvalle "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584039,
+          45.461685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de la Roche / Fleury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6584135890007,
+          45.558999740253725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Alexandra / Waverly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.617842,
+          45.531938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "LaSalle / Crawford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58274042606354,
+          45.43791380065227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "30e avenue / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57943594,
+          45.56822507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "LaSalle / Sénécal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58669400215149,
+          45.43443353453236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Natatorium (LaSalle / Rolland)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57556819915771,
+          45.44440817060518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Francis / Fleury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.655573,
+          45.563947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Kent / Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.638772,
+          45.494805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Grand Boulevard / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.623295,
+          45.466569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Park Row O / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63407254219055,
+          45.46072936353252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ontario / Viau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.535496,
+          45.5594818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Cadillac (Sherbrooke / de Cadillac)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54628920555115,
+          45.57713595014113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Pierre-de-Coubertin / Louis-Veuillot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54031324386597,
+          45.57278890699134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "26e avenue / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577639,
+          45.564944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Square Sir-Georges-Étienne-Cartier / Léa Roback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58247,
+          45.471926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Monk (Allard / Beaulieu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5940272,
+          45.45085122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hamel / Sauvé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65041,
+          45.560742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Montmorency / Richardson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56011867523193,
+          45.48489566038642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Champagneur / Jean-Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62421274185179,
+          45.52679805446713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5581123828888,
+          45.516426545782224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "35e avenue / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573047,
+          45.570081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rousselot / Villeray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6166113615036,
+          45.5488588257062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fortune / Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559038,
+          45.477923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "28e avenue / Rosemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571244,
+          45.564353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lajeunesse / Villeray (place Tapéo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6225471,
+          45.54211889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Basile-Routhier / Gouin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.67011472582817,
+          45.55656215749652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jacques-Casault / Christophe-Colomb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.630103,
+          45.552123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "François-Perrault / L.-O.-David"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6014300584793,
+          45.56129965944617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Repentigny / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.544766,
+          45.58077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Notre-Dame / Chatham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56942862272263,
+          45.48691857455084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Briand / le Caron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59665,
+          45.462362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Marc / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.583368,
+          45.494514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hamilton / Jolicoeur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.597557,
+          45.456355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cathcart / Place Phillips"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56817871332169,
+          45.5038053903264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Acadie (de l'Acadie / Beaumont)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62344294786453,
+          45.52357479400008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Waverly / St-Zotique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61470833420753,
+          45.53050525974957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Young / Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55797827243805,
+          45.49282530947313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Jacques / St-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55646550655365,
+          45.50642115207643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "des Érables / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56693148612976,
+          45.5334955551535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hutchison / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61374676,
+          45.5262464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Zotique / 39e avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5749227526685,
+          45.573541425148306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Eadie / Dubois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59052859581423,
+          45.45759682462104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ste-Catherine / Ste-Élisabeth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56182590126991,
+          45.51228321268213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Tolhurst / Fleury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.66738557815552,
+          45.54410128430579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Charles / Sauvé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65350246429443,
+          45.5560649285589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Émile-Journault / de Chateaubriand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64063255488873,
+          45.54983321292286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / Fleury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6655656993389,
+          45.54764847825576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gare Canora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63246321678162,
+          45.513780237755576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Rousselot / Jarry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62091094255447,
+          45.55076907833167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "CHSLD Benjamin-Victor-Rousselot (Dickson / Sherbrooke)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55034470558167,
+          45.573797819677914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Belmore / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63740515022073,
+          45.459233060280816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Girouard / de Terrebonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62489938735962,
+          45.47843159157294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "McKenna / Édouard-Montpetit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62062528729439,
+          45.50119450775172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Benny Crescent / Benny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62556993961334,
+          45.46431546986341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Édouard-Montpetit (Université de Montréal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61765205860138,
+          45.50450093352018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "LaSalle / 4e avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5919108253438,
+          45.43074022417498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Langelier (Sherbrooke / Langelier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54244291782379,
+          45.582757156033914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bennett / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53238195180893,
+          45.55302673666147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Joliette / Ste-Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53822447359562,
+          45.54286796890454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jeanne d'Arc / Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54193866252899,
+          45.549604526934075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Germain / Hochelaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55367332696915,
+          45.5436987529516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "McEachran / Van Horne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61664688243762,
+          45.51834130440452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Durocher / Bernard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60693126916885,
+          45.522317596602306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "CHSLD St-Michel (Jarry / 8e avenue)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61051201820374,
+          45.561690269046075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / Gilford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58542799949646,
+          45.5265658689096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Alexandra / Jean Talon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62018674612045,
+          45.532330645908054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Dominique / Bernard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60122251338906,
+          45.52793332015246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Maguire / Henri-Julien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59347056655677,
+          45.527041096087785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Terrasse Guindon / Fullum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56913894414902,
+          45.537114135456825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Gaspé / St-Viateur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59743893146515,
+          45.52774827884841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cartier / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58337676181691,
+          45.53805998459642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Bordeaux / Marie-Anne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57065707445145,
+          45.53340912723174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Berri / Rachel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57749536633492,
+          45.5228780183634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Drolet / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58975838928018,
+          45.526251876092516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Aylmer / Prince-Arthur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57769787311554,
+          45.508566869474386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / Laurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59358858375344,
+          45.522583736890226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fullum / Gilford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57383679656778,
+          45.53922374455291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Prince-Arthur / Ste-Famille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57463479042053,
+          45.5116382139746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "du Mont-Royal / Augustin-Frigon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56772005558014,
+          45.543763151117474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Urbain / Beaubien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61067965626717,
+          45.52951033828327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "15e avenue / Masson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57141882181168,
+          45.553913774821154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ernest-Gendreau / du Mont-Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56384828686714,
+          45.549713734001415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hôpital Santa Cabrini (St-Zotique / Jeanne-Jugan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5705041885376,
+          45.5793249650848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Casgrain / Mozart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6147928237915,
+          45.53472725603326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "15e avenue / Dandurand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57432097196579,
+          45.55479651443991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Métro Angrignon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60354088363238,
+          45.446534244545326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ottawa / St-Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56238916516304,
+          45.490873602424855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ottawa / William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56413930654526,
+          45.48954486106131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Jogues / Allard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60025119094644,
+          45.449900812620385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Shearer / Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56218665838242,
+          45.483005619293046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Ropery / Augustin-Cantin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56846034526825,
+          45.48091406771754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Cote St-Paul / St-Ambroise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59391784324544,
+          45.467665653865964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Greene / Workman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5793487727642,
+          45.48118440698601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Godin / Bannantyne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57726335525513,
+          45.4475536968409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "2e avenue / Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56752824096475,
+          45.45789352611307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gordon / Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56730699539183,
+          45.461077990108386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Argyle / Bannantyne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57681475579739,
+          45.45324567428996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de l'Église / de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57156895217486,
+          45.46300108733155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lajeunesse / de Castelnau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61681789159775,
+          45.540396208099985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Nazareth / William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55922264978288,
+          45.49702385100359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Henri-Julien / Jarry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63007068634033,
+          45.54140622907085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Clark / de Liège"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6381347477436,
+          45.539983846015616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "de Lanaudière / Bélanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60565051436424,
+          45.54365085053057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Urbain / de la Gauchetière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56139540672302,
+          45.50707812811467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "City Councillors / du President-Kennedy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57139065861702,
+          45.50625103256782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Basin / Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56518536806107,
+          45.48760116378806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Union / President-Kennedy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57170313596725,
+          45.50499344809821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Bourgeoys / Favard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55592101812363,
+          45.47993042065731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-Mathieu / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58259558677672,
+          45.495789104811756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Beaudry / Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56540597975254,
+          45.52303459543551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Logan / de Champlain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55584256350994,
+          45.5231943285584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "St-André / Robin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56185138225555,
+          45.518128086513194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "CHSLD Éloria-Lepage (de la Pépinière / de Marseille)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54045271873474,
+          45.57694445420869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Tupper / du Fort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58078241348267,
+          45.49122961531575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Fullum / Jean Langlois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54600220918655,
+          45.52612803739037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Hochelaga / Chapleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55965197086334,
+          45.53445294687473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Gauvin / Notre-Dame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56041237711906,
+          45.50004272864201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "President-Kennedy / Robert Bourassa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57254266738892,
+          45.504407470403315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "bixi",
+        "name": "Lincoln / Lambert Closse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5860127210617,
+          45.49138379789788
+        ]
+      }
+    }
+  ]
+}
