@@ -39,7 +39,7 @@ def get_neighborhood_for_location(lat, lon):
 
 def load_neighborhoods():
     """Load neighborhood polygons for Montréal from GeoJSON."""
-    path = "data\processed\quartierreferencehabitation.geojson"
+    path = "data/processed/quartierreferencehabitation.geojson"
     neighborhoods = gpd.read_file(path)
     if neighborhoods.crs is None or neighborhoods.crs.to_epsg() != 4326:
         neighborhoods = neighborhoods.to_crs(epsg=4326)
