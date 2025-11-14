@@ -1,4 +1,5 @@
 geopandas
 uvicorn
+gunicorn
 fastapi
 jinja2
